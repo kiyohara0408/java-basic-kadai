@@ -2,8 +2,8 @@ package kadai_18;
 
 public class KatoIchiro_Chapter18 extends kato_Chapter18{
 	
-	public KatoIchiro_Chapter18() {
-		super("一郎");
+	public void setGivenName() {
+		givenName = "一郎";
 	}
 	
 	void eachIntroduce() {
